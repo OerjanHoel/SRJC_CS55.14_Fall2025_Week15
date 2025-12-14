@@ -2,6 +2,7 @@
   "dependencies": {
     "@ionic/cli": "^7.2.1",
     "cordova-res": "^0.15.4",
-    "native-run": "^2.0.1"
+    "native-run": "^2.0.1",
+    "npm": "^11.7.0"
   }
 }
